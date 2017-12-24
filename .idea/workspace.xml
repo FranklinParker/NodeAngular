@@ -58,8 +58,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/angularclient/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+            <state relative-caret-position="82">
+              <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -75,11 +75,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="student.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="student.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nodeserver/model/student.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -158,6 +168,7 @@
         <option value="$PROJECT_DIR$/angularclient/src/app/school/student/student-view/student-view.component.html" />
         <option value="$PROJECT_DIR$/nodeserver/routes/student.js" />
         <option value="$PROJECT_DIR$/nodeserver/routes/courses.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -226,7 +237,7 @@
             <path>
               <item name="DemoApp" type="b2602c69:ProjectViewProjectNode" />
               <item name="DemoApp" type="462c0819:PsiDirectoryNode" />
-              <item name="nodeserver" type="462c0819:PsiDirectoryNode" />
+              <item name="angularclient" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -287,7 +298,7 @@
       <workItem from="1513914903466" duration="7390000" />
       <workItem from="1513976452386" duration="12245000" />
       <workItem from="1514055010291" duration="2501000" />
-      <workItem from="1514091911944" duration="7042000" />
+      <workItem from="1514091911944" duration="7352000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1514056951646</created>
@@ -300,7 +311,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35051000" />
+    <option name="totallyTimeSpent" value="35361000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -396,13 +407,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/angularclient/src/app/shared/components/nav-bar/nav-bar.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="49" lean-forward="false" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/angularclient/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -729,14 +733,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/angularclient/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/nodeserver/public/stylesheets/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -749,6 +745,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angularclient/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
           <folding />
         </state>
       </provider>
