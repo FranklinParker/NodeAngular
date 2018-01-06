@@ -33,7 +33,6 @@ const studentList = [{
  */
 router.get('/', function (req, res) {
     if (useDb) {
-        Student
         Student.find()
             .exec(function (error, stundents) {
                 if (error) {
